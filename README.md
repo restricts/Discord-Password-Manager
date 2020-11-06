@@ -1,5 +1,5 @@
 # Discord-Password-Manager
-A password generator and manager, sends to a discord webhook. 
+A password generator and manager, sends to a discord channel. 
 
 How to grab the links/tokens?
 - Login to the discord account on chrome that you wish to send alerts with, it HAS to be a user account (not a bot/webhook).
